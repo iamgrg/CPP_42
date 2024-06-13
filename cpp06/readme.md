@@ -46,5 +46,5 @@ CPP Module 06 provides a deep dive into the mechanics and utilities of C++ casti
 
 ## License
 
-License](https://img.shields.io/badge/license-MIT-green)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 Distributed under the MIT License.

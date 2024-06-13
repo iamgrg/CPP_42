@@ -37,7 +37,8 @@ make
 ```
 
 ## Conclusion
-CPP Module 09 provides a deep insight into the STL's capabilities, using a series of programming challenges that showcase how STL containers, algorithms, and iterators can be used to create efficient and effective solutions to real-world problems. 
+
+CPP Module 09 provides a deep insight into the STL's capabilities, using a series of programming challenges that showcase how STL containers, algorithms, and iterators can be used to create efficient and effective solutions to real-world problems.
 
 ## Contributors
 
@@ -45,5 +46,5 @@ CPP Module 09 provides a deep insight into the STL's capabilities, using a serie
 
 ## License
 
-License](https://img.shields.io/badge/license-MIT-green)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 Distributed under the MIT License.

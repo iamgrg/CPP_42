@@ -37,7 +37,8 @@ make
 ```
 
 ## Conclusion
-CPP Module 07 effectively demonstrates the utility and flexibility of C++ templates through a series of practical programming exercises. These templates enable the creation of highly reusable code that can adapt to any data type, enhancing the robustness and maintainability of C++ applications. 
+
+CPP Module 07 effectively demonstrates the utility and flexibility of C++ templates through a series of practical programming exercises. These templates enable the creation of highly reusable code that can adapt to any data type, enhancing the robustness and maintainability of C++ applications.
 
 ## Contributors
 
@@ -45,5 +46,5 @@ CPP Module 07 effectively demonstrates the utility and flexibility of C++ templa
 
 ## License
 
-License](https://img.shields.io/badge/license-MIT-green)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 Distributed under the MIT License.

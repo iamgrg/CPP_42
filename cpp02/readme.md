@@ -38,7 +38,7 @@ make
 
 ## Conclusion
 
-CPP Module 02 is a deep dive into crucial C++ programming concepts that are foundational for developing efficient and powerful C++ applications. Through this project, practical understanding and application of complex features such as operator overloading and memory management are demonstrated. 
+CPP Module 02 is a deep dive into crucial C++ programming concepts that are foundational for developing efficient and powerful C++ applications. Through this project, practical understanding and application of complex features such as operator overloading and memory management are demonstrated.
 
 ## Contributors
 
@@ -46,5 +46,5 @@ CPP Module 02 is a deep dive into crucial C++ programming concepts that are foun
 
 ## License
 
-License](https://img.shields.io/badge/license-MIT-green)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 Distributed under the MIT License.

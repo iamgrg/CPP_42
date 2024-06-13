@@ -38,7 +38,7 @@ make
 
 ## Conclusion
 
-CPP Module 08 effectively demonstrates the utility of C++ STL components, making extensive use of templated containers, iterators, and algorithms to solve varied programming challenges. These exercises not only reinforce understanding of STL but also encourage thoughtful solutions to common programming problems using modern C++ practices. 
+CPP Module 08 effectively demonstrates the utility of C++ STL components, making extensive use of templated containers, iterators, and algorithms to solve varied programming challenges. These exercises not only reinforce understanding of STL but also encourage thoughtful solutions to common programming problems using modern C++ practices.
 
 ## Contributors
 
@@ -46,5 +46,5 @@ CPP Module 08 effectively demonstrates the utility of C++ STL components, making
 
 ## License
 
-License](https://img.shields.io/badge/license-MIT-green)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 Distributed under the MIT License.

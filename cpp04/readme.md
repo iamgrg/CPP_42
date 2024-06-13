@@ -42,7 +42,7 @@ make
 
 ## Conclusion
 
-CPP Module 04 provides a deep dive into how polymorphism, abstract classes, and interfaces can be effectively used in C++ to create modular, maintainable, and scalable applications. The exercises are designed to solidify understanding of these advanced object-oriented programming concepts. 
+CPP Module 04 provides a deep dive into how polymorphism, abstract classes, and interfaces can be effectively used in C++ to create modular, maintainable, and scalable applications. The exercises are designed to solidify understanding of these advanced object-oriented programming concepts.
 
 ## Contributors
 
@@ -50,5 +50,5 @@ CPP Module 04 provides a deep dive into how polymorphism, abstract classes, and 
 
 ## License
 
-License](https://img.shields.io/badge/license-MIT-green)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 Distributed under the MIT License.

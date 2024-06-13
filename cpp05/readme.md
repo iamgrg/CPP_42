@@ -42,6 +42,7 @@ make
 ```
 
 ## Conclusion
+
 CPP Module 05 provides a thorough exploration of error handling and class design in C++, using a fun and relatable metaphor of a bureaucratic system. The exercises challenge the developer to think critically about how exceptions can be used to manage errors and how abstract classes can organize complex systems.
 
 ## Contributors
@@ -50,5 +51,5 @@ CPP Module 05 provides a thorough exploration of error handling and class design
 
 ## License
 
-License](https://img.shields.io/badge/license-MIT-green)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 Distributed under the MIT License.
