@@ -49,5 +49,5 @@ Run each program according to the specific instructions provided in each exercis
 
 ## License
 
-License](https://img.shields.io/badge/license-MIT-green)
+https://img.shields.io/badge/license-MIT-green
 Distributed under the MIT License.
